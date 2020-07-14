@@ -13,4 +13,5 @@ I want to use it to act as:
 * [GNU/Linux Rapid Embedded Programminig](https://learning.oreilly.com/library/view/gnulinux-rapid-embedded/9781786461803)
 * [Key Mime Pi: Turn Your Raspberry Pi into a Remote Keyboard](https://mtlynch.io/key-mime-pi/)
 * [github-hidapi](https://github.com/libusb/hidapi)
-* [rasp_vusb](https://github.com/stjeong/rasp_vusb)
+* [github-rasp_vusb](https://github.com/stjeong/rasp_vusb)
+* [Setting up a headless raspberry pi zero](https://medium.com/@aallan/setting-up-a-headless-raspberry-pi-zero-3ded0b83f274)
